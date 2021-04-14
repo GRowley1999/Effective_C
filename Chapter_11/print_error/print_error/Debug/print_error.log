@@ -1,0 +1,7 @@
+﻿  print_error.c
+F:\Users\Gregor\Documents\Programming\C\Chapter_11\print_error\print_error\print_error.c(9,30): warning C4013: 'strerrorlen_s' undefined; assuming extern returning int
+F:\Users\Gregor\Documents\Programming\C\Chapter_11\print_error\print_error\print_error.c(25,28): warning C4013: 'strerrlen_s' undefined; assuming extern returning int
+F:\Users\Gregor\Documents\Programming\C\Chapter_11\print_error\print_error\print_error.c(22): warning C4715: 'print_error': not all control paths return a value
+print_error.obj : error LNK2019: unresolved external symbol _strerrorlen_s referenced in function _print_error
+print_error.obj : error LNK2019: unresolved external symbol _strerrlen_s referenced in function _get_error
+F:\Users\Gregor\Documents\Programming\C\Chapter_11\print_error\Debug\print_error.exe : fatal error LNK1120: 2 unresolved externals

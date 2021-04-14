@@ -1,0 +1,2 @@
+﻿  bounds_checking.c
+F:\Users\Gregor\Documents\Programming\C\Chapter_11\bounds_checking\bounds_checking\bounds_checking.c(12,1): error C2040: 'strcpy': 'int ()' differs in levels of indirection from 'char *(char *,const char *)'
